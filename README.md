@@ -68,7 +68,7 @@ Open the `findBrokenLinks.cy.js` file in the `cypress/e2e/` directory and modify
   ```bash
   npx cypress run --spec "cypress/e2e/findBrokenLinks.cy.js"
 
-# ⚙️ How It Works
+## ⚙️ How It Works
 The script performs the following steps:​
 
   1. **Visit the Specified Webpage​**: Navigates to the URL provided in the `cy.visit()` command.
